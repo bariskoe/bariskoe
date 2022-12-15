@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bariskoe 
 - 👀 I’m interested in ...
-Programming. One day I would like to be able to call myself a fullstack developer. Right now I am a Flutter developer (November 2022).
+Fullstack development, Cyber Security, CI / CD.
 
 - 🌱 I’m currently learning ...
-iOS native development with Swift.
+iOS native development with Swift, Android native development, Google Cloud Functions with Python.
 
 - 💞️ I’m looking to collaborate on ...
 
