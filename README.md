@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bariskoe 
 - 👀 I’m interested in ...
-Fullstack development, Cyber Security, CI / CD.
+Fullstack development, Cyber Security.
 
 - 🌱 I’m currently learning ...
-iOS native development with Swift, Android native development, Google Cloud Functions with Python.
+MySQL Databases, Cyber Security.
 
 - 💞️ I’m looking to collaborate on ...
 
